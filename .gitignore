@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+src/main/java/com/ash/leetcode/editor/cn/doc
