@@ -34,7 +34,7 @@ package com.ash.leetcode.editor.cn;
  * P1154.一年中的第几天
  *
  * @author ash
- * @date 2023-12-31 19:40:32
+ * @since 2023-12-31 19:40:32
  */
 public class P1154_DayOfTheYear{
     

@@ -48,7 +48,7 @@ package com.ash.leetcode.editor.cn;
  * P0206.反转链表
  *
  * @author ash
- * @date 2023-12-09 18:43:42
+ * @since 2023-12-09 18:43:42
  */
 public class P0206_ReverseLinkedList{
     

@@ -41,7 +41,7 @@ package com.ash.leetcode.editor.cn;
  * P0021.合并两个有序链表
  *
  * @author ash
- * @date 2023-12-12 16:51:46
+ * @since 2023-12-12 16:51:46
  */
 public class P0021_MergeTwoSortedLists{
     

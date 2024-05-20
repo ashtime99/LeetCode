@@ -47,7 +47,7 @@ package com.ash.leetcode.editor.cn;
  * P0136.只出现一次的数字
  *
  * @author ash
- * @date 2023-12-14 16:13:31
+ * @since 2023-12-14 16:13:31
  */
 public class P0136_SingleNumber {
 

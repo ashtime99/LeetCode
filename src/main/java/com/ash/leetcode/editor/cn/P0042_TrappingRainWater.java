@@ -37,7 +37,7 @@ package com.ash.leetcode.editor.cn;
  * P0042.接雨水
  *
  * @author ash
- * @date 2023-12-08 10:12:25
+ * @since 2023-12-08 10:12:25
  */
 public class P0042_TrappingRainWater {
 

@@ -75,7 +75,7 @@ package com.ash.leetcode.editor.cn;
  * P1599.经营摩天轮的最大利润
  *
  * @author ash
- * @date 2024-01-01 22:49:00
+ * @since 2024-01-01 22:49:00
  */
 public class P1599_MaximumProfitOfOperatingACentennialWheel {
 

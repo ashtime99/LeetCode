@@ -94,7 +94,7 @@ package com.ash.leetcode.editor.cn;
  * P0160.相交链表
  *
  * @author ash
- * @date 2023-12-08 16:32:04
+ * @since 2023-12-08 16:32:04
  */
 public class P0160_IntersectionOfTwoLinkedLists{
     

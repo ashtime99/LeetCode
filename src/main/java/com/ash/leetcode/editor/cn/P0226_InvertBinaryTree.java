@@ -44,7 +44,7 @@ package com.ash.leetcode.editor.cn;
  * P0226.翻转二叉树
  *
  * @author ash
- * @date 2023-12-07 18:37:50
+ * @since 2023-12-07 18:37:50
  */
 public class P0226_InvertBinaryTree{
     

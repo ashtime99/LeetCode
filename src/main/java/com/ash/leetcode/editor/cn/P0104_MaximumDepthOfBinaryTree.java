@@ -39,7 +39,7 @@ package com.ash.leetcode.editor.cn;
  * P0104.二叉树的最大深度
  *
  * @author ash
- * @date 2023-12-07 18:00:13
+ * @since 2023-12-07 18:00:13
  */
 public class P0104_MaximumDepthOfBinaryTree{
     

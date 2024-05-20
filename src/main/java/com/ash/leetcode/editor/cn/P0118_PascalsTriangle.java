@@ -39,7 +39,7 @@ import java.util.List;
  * P0118.杨辉三角
  *
  * @author ash
- * @date 2023-12-14 17:57:25
+ * @since 2023-12-14 17:57:25
  */
 public class P0118_PascalsTriangle{
     

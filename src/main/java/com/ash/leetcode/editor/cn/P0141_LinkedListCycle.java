@@ -59,7 +59,7 @@ package com.ash.leetcode.editor.cn;
  * P0141.环形链表
  *
  * @author ash
- * @date 2023-12-12 16:41:33
+ * @since 2023-12-12 16:41:33
  */
 public class P0141_LinkedListCycle{
     

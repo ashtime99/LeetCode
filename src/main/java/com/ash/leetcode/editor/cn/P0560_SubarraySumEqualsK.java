@@ -36,7 +36,7 @@ package com.ash.leetcode.editor.cn;
  * P0560.和为 K 的子数组
  *
  * @author ash
- * @date 2023-12-14 15:28:17
+ * @since 2023-12-14 15:28:17
  */
 public class P0560_SubarraySumEqualsK{
     

@@ -40,7 +40,7 @@ import java.util.List;
  * P0234.回文链表
  *
  * @author ash
- * @date 2023-12-12 15:53:41
+ * @since 2023-12-12 15:53:41
  */
 public class P0234_PalindromeLinkedList {
 

@@ -37,7 +37,7 @@ package com.ash.leetcode.editor.cn;
  * P0101.对称二叉树
  *
  * @author ash
- * @date 2023-12-13 10:48:41
+ * @since 2023-12-13 10:48:41
  */
 public class P0101_SymmetricTree {
 

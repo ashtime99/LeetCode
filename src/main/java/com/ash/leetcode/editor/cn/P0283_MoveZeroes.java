@@ -39,7 +39,7 @@ package com.ash.leetcode.editor.cn;
  * P0283.移动零
  *
  * @author ash
- * @date 2023-11-30 11:14:35
+ * @since 2023-11-30 11:14:35
  */
 public class P0283_MoveZeroes{
     

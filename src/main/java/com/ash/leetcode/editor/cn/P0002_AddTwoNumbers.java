@@ -46,7 +46,7 @@ package com.ash.leetcode.editor.cn;
  * P0002.两数相加
  *
  * @author ash
- * @date 2023-11-28 12:20:18
+ * @since 2023-11-28 12:20:18
  */
 public class P0002_AddTwoNumbers{
     

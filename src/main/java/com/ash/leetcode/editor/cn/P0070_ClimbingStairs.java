@@ -40,14 +40,32 @@ package com.ash.leetcode.editor.cn;
  * P0070.爬楼梯
  *
  * @author ash
- * @date 2023-12-15 11:32:19
+ * @since 2023-12-15 11:32:19
  */
 public class P0070_ClimbingStairs{
     
     //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
     public int climbStairs(int n) {
-        return 0;
+        //动规五部曲：
+        // 1.确定dp数组以及下标的含义：dp[i],第i个台阶的答案是dp[i]
+        // 2.确定递推公式：dp[i] = dp[i-1] + dp[i-2]+1;
+        // 3.dp数组如何初始化：dp[1] = 1;dp[2] = 2;
+        // 4.确定遍历顺序：从公式可以知道从前往后
+        // 5.举例推导dp数组 1、2、3、5、8、
+        if (n==1){
+            return 1;
+        }
+        if (n==2){
+            return 2;
+        }
+        int[] dp=new int[n+1];
+        dp[1]=1;
+        dp[2]=2;
+        for (int i = 3; i <= n; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp[n];
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)

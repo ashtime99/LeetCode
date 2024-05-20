@@ -38,7 +38,7 @@ package com.ash.leetcode.editor.cn;
  * P0543.二叉树的直径
  *
  * @author ash
- * @date 2023-12-13 11:01:03
+ * @since 2023-12-13 11:01:03
  */
 public class P0543_DiameterOfBinaryTree {
 

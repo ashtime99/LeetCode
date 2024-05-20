@@ -44,7 +44,7 @@ package com.ash.leetcode.editor.cn;
  * P2487.从链表中移除节点
  *
  * @author ash
- * @date 2024-01-03 21:31:01
+ * @since 2024-01-03 21:31:01
  */
 public class P2487_RemoveNodesFromLinkedList{
     

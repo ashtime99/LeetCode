@@ -40,7 +40,7 @@ import java.util.Arrays;
  * P0169.多数元素
  *
  * @author ash
- * @date 2023-12-14 17:50:47
+ * @since 2023-12-14 17:50:47
  */
 public class P0169_MajorityElement{
     
